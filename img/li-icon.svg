@@ -1,0 +1,33 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient y2="Infinity" y1="Infinity" x2="Infinity" x1="-Infinity" id="SVGID_1_">
+   <stop stop-color="#33B49D" offset="0"/>
+   <stop stop-color="#00A185" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="Infinity" y1="Infinity" x2="Infinity" x1="Infinity" id="SVGID_2_">
+   <stop stop-color="#00A185" offset="0"/>
+   <stop stop-color="#33B49D" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <circle id="svg_3" r="256" fill="url(#SVGID_1_)" cy="256" cx="256"/>
+  <path id="svg_4" fill="url(#SVGID_2_)" d="m256,469.33386c-117.63153,0 -213.33334,-95.70239 -213.33334,-213.33334c0,-117.63146 95.7018,-213.33331 213.33334,-213.33331c117.6362,0 213.33334,95.70186 213.33334,213.33331c0,117.63095 -95.69714,213.33334 -213.33334,213.33334z"/>
+  <circle id="svg_6" r="26.032" opacity="0.3" cy="174.964798" cx="170.032471"/>
+  <rect id="svg_7" y="169.965332" x="222.244202" width="161.755203" opacity="0.3" height="10"/>
+  <circle id="svg_8" r="26.032" opacity="0.3" cy="264" cx="170.032471"/>
+  <rect id="svg_9" y="259.001068" x="222.244202" width="161.755203" opacity="0.3" height="10"/>
+  <circle id="svg_10" r="26.032" opacity="0.3" cy="353.034668" cx="170.032471"/>
+  <rect id="svg_11" y="348.034149" x="222.244202" width="161.755203" opacity="0.3" height="10"/>
+  <circle id="svg_13" r="26.032" fill="#FFFFFF" cy="166.964798" cx="162.032471"/>
+  <rect id="svg_14" y="161.965332" x="214.244202" width="161.755203" height="10" fill="#FFFFFF"/>
+  <circle id="svg_15" r="26.032" fill="#FFFFFF" cy="256" cx="162.032471"/>
+  <rect id="svg_16" y="251.001068" x="214.244202" width="161.755203" height="10" fill="#FFFFFF"/>
+  <circle id="svg_17" r="26.032" fill="#FFFFFF" cy="345.034668" cx="162.032471"/>
+  <rect id="svg_18" y="340.034149" x="214.244202" width="161.755203" height="10" fill="#FFFFFF"/>
+ </g>
+</svg>
